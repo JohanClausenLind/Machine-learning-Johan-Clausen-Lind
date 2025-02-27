@@ -1,1 +1,1 @@
-# Maskininl-rning-Johan-Clausen-Lind
+#Maskininlärning-Johan-Clausen-Lind
